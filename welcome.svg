@@ -12,9 +12,9 @@
         box-sizing: border-box;
       }
       .body {
-        --color-main: #ff9b71;
-        --color-primary: #ff4444;
-        --color-secondary: #e8e677;
+        --color-main: #FBE3CB;
+        --color-primary: #2C63B0;
+        --color-secondary: #3272B8;
         --color-background: #0d1117;
         --color-link: #fef29e;
         --color-link-active: #ff4444;
