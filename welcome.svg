@@ -111,9 +111,10 @@
         font-family: "Open Sans", sans-serif;
       }
       ul li {
-        display: flex;
-        letter-spacing: 0.125vw;
-      }
+  display: block;        /* ganti dari flex */
+  text-align: center;    /* biar teks rata tengah */
+  letter-spacing: 0.125vw;
+}
       ul li a {
         margin-left: 5px;
       }
